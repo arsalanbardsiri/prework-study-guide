@@ -112,11 +112,6 @@ footer {
   margin-right: 30px;
 }
 
-.label {
-  width: 100px;
-  height: 100px;
-}
-
 #git-section {
   display: flex;
   align-items: center;
