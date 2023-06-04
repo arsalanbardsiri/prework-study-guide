@@ -43,6 +43,7 @@ h1 {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+
 h2 {
   color: #333333;
   font-size: 24px;
@@ -62,13 +63,11 @@ footer {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.hexagon-image {
-  align-items: center;
-  clip-path: circle(50%);
-  border-radius: 50%;
+.the-image {
   width: 250px;
   height: 250px;
   margin-bottom: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 /* Color Palette */
@@ -90,7 +89,52 @@ footer {
   background-color: var(--accent-color);
   color: #FFFFFF;
 }
+#html-section {
+  display: flex;
+  align-items: center;
+}
 
+#html-label {
+  margin-right: 30px;
+}
+
+.label {
+  width: 100px;
+  height: 100px;
+}
+
+#css-section {
+  display: flex;
+  align-items: center;
+}
+
+#css-label {
+  margin-right: 30px;
+}
+
+.label {
+  width: 100px;
+  height: 100px;
+}
+
+#git-section {
+  display: flex;
+  align-items: center;
+}
+
+#git-label {
+  margin-right: 30px;
+}
+
+
+#javascript-section {
+  display: flex;
+  align-items: center;
+}
+
+#javascript-label {
+  margin-right: 30px;
+}
 
 /*Suggested bu UCI*/
 
