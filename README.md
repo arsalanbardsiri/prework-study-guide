@@ -1,6 +1,7 @@
 # Project Name
 
-[![License](https://img.shields.io/github/license/<username>/<repository>.svg?color=blue)]([https://github.com/<username>/<repository>/blob/main/LICENSE](https://github.com/arsalanbardsiri/prework-study-guide/blob/feature/project-README/LICENSE)
+[![License](https://img.shields.io/github/license/<username>/<repository>.svg?color=blue)](https://github.com/arsalanbardsiri/prework-study-guide/blob/feature/project-README/LICENSE)
+
 
 Brief description or introduction of your project.
 
