@@ -11,6 +11,7 @@
 </head>
 
 <body>
+
   <header id="header">
     <h1>Prework Study Guide</h1>
     <img src="./assets/bowtie-cat.png" alt="Profile image of cat wearing a bow tie." class="the-image" />
@@ -19,7 +20,8 @@
   <main>
     <section class="card" id="html-section">
       <!--h2>HTML</h2-->
-      <img src="./assets/HTML.png" alt="HTML" width="200" height="200" class="label" id="html-label" />
+      <input type="image" src="./assets/HTML.png" alt="HTML" width="200" height="200" class="label" id="html-label"
+        onclick="selectTopic('HTML')" />
       <ul>
         <li>The head element contains information about the webpage.</li>
         <li>"meta" is significant for SEO related matters.</li>
@@ -32,7 +34,8 @@
 
     <section class="card" id="css-section">
       <!--h2>CSS</h2-->
-      <img src="./assets/CSS.png" alt="CSS" width="200" height="200" class="label" id="css-label" />
+      <input type="image" src="./assets/CSS.png" alt="CSS" width="200" height="200" class="label" id="css-label"
+        onclick="selectTopic('CSS')" />
       <ul>
         <li>A margin indicates how much space we want around the outside of an element.</li>
         <li>A padding indicates how much space we want around the content inside an element.</li>
@@ -45,7 +48,8 @@
 
     <section class="card" id="git-section">
       <!--h2>Git</h2-->
-      <img src="./assets/Git.png" alt="Git" width="200" height="200" class="label" id="git-label" />
+      <input type="image" src="./assets/Git.png" alt="Git" width="200" height="200" class="label" id="git-label"
+        onclick="selectTopic('Git')" />
       <ul>
         <li>"git" is being used for the version control, the more of commands you know the better.</li>
         <li>"git" status: checks what branch we are currently on.</li>
@@ -58,10 +62,16 @@
 
     <section class="card" id="javascript-section">
       <!--h2>JavaScript</h2-->
-      <img src="./assets/JavaScript.png" alt="JavaScript" width="200" height="200" class="label"
-        id="javascript-label" />
+      <input type="image" src="./assets/JavaScript.png" alt="JavaScript" width="200" height="200" class="label"
+        id="javascript-label" onclick="selectTopic('JavaScript')" />
       <ul>
-        <li>Enter your JavaScript notes here</li>
+        <li>A variable is a named container that allows us to store data in our code.</li>
+        <li>Control flow is the order in which a computer executes code in a script.</li>
+        <li>Arrays are the most common form of accessing data structure in JS, and Arrays are ordered collections of
+          elements, accessed by numeric indices.</li>
+        <li>The "console.log()" is helpful for debugging same is print in other languages.</li>
+        <li>There are two was to make functions seems like the arrow version is the trending one even for "node.js"</li>
+        <li>Seems like classes are all capital case in JavaScript.</li>
       </ul>
     </section>
   </main>
