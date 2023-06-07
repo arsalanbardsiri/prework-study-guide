@@ -30,7 +30,7 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ### Folder Structure
 
-three major files of this project are the [Index.html](https://github.com/arsalanbardsiri/prework-study-guide/blob/feature/project-README/index.html) which contains the structure,[style.css](https://github.com/arsalanbardsiri/prework-study-guide/blob/feature/project-README/assets/style.css) for styling purposes, and [script.js](https://github.com/arsalanbardsiri/prework-study-guide/blob/feature/project-README/assets/script.js) to add some logic and make it interactive.
+three major files of this project are the [Index.html](https://github.com/arsalanbardsiri/prework-study-guide/blob/main/index.html) which contains the structure,[style.css](https://github.com/arsalanbardsiri/prework-study-guide/blob/main/assets/style.css) for styling purposes, and [script.js](https://github.com/arsalanbardsiri/prework-study-guide/blob/main/assets/script.js) to add some logic and make it interactive.
 
 ### Built With
 
@@ -43,6 +43,6 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
-[![License](https://img.shields.io/github/license/arsalanbardsiri/prework-study-guide.svg?color=blue)](https://github.com/arsalanbardsiri/prework-study-guide/blob/feature/project-README/LICENSE)
+[![License](https://img.shields.io/github/license/arsalanbardsiri/prework-study-guide.svg?color=blue)](https://github.com/arsalanbardsiri/prework-study-guide/blob/main/LICENSE)
 
 
