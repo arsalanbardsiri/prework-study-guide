@@ -1,6 +1,6 @@
 # Project Name
 
-[![License](https://img.shields.io/github/license/<username>/<repository>.svg?color=blue)](https://github.com/<username>/<repository>/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/arsalanbardsiri/prework-study-guide.svg?color=blue)](https://github.com/arsalanbardsiri/prework-study-guide/blob/feature/project-README/LICENSE)
 
 Brief description or introduction of your project.
 
@@ -14,31 +14,19 @@ Brief description or introduction of your project.
 
 ## About
 
-Provide a more detailed overview of your project. Mention its purpose, objectives, and any relevant background information.
-
-## Getting Started
-
-These instructions will help you get a copy of the project up and running on your local machine.
-
-### Prerequisites
-
-Specify any software or tools that need to be installed for your project to work.
+This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
 ### Installation
 
-Step-by-step instructions on how to install and set up your project. Include code snippets if necessary.
+N/A
 
 ## Usage
 
-Explain how to use your project. Provide instructions on how to run the HTML/CSS/JS files and any additional steps required. If your project has any special features or functionalities, mention them here.
-
-## Development
-
-If your project involves development, provide instructions on how to contribute or modify the code.
+To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows) or simple right click on the web page and click on the inspect option. A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
 
 ### Folder Structure
 
-Describe the structure of your project's folders and files. Explain the purpose of each major file or folder.
+three major files of this project are the (https://github.com/arsalanbardsiri/prework-study-guide/blob/feature/project-README/index.html).
 
 ### Built With
 
