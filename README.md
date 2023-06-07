@@ -26,7 +26,7 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ### Folder Structure
 
-three major files of this project are the (https://github.com/arsalanbardsiri/prework-study-guide/blob/feature/project-README/index.html).
+three major files of this project are the [![License](https://img.shields.io/github/arsalanbardsiri/prework-study-guide.svg?color=blue)](https://github.com/arsalanbardsiri/prework-study-guide/blob/feature/project-README/index.html).
 
 ### Built With
 
